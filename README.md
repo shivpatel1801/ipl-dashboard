@@ -2,4 +2,4 @@
 
 ![Dashboard Preview](dashboard_preview.png)
 
-This repository contains the Power BI `.pbix` file for the Sales Dashboard.
+This repository contains the Power BI `.pbix` file for the IPL Dashboard.
