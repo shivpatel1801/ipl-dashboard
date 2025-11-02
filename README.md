@@ -1,4 +1,4 @@
-# Sales Dashboard
+# IPL Analysis Dashboard
 
 ![Dashboard Preview](dashboard_preview.png)
 
